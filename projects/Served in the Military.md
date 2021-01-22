@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/military.jpg
 title: Served in the Military
 permalink: projects/military serve
 # All dates must be YYYY-MM-DD format!
