@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/DNA.jpg
 title: Environmental Forensics 
 permalink: projects/Environmental Forensics 
 # All dates must be YYYY-MM-DD format!
