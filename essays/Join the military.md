@@ -1,11 +1,11 @@
 ---
 layout: essay
 type: essay
-title: Igniting the fire
+title: Join the military
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2015-01-19
 labels:
-  - Software Engineering
+  - Military serving
   - Learning
 ---
 
