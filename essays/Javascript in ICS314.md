@@ -8,7 +8,7 @@ labels:
   - Software Engineering
 ---
 
-<img class="ui tiny right spaced image" src="../images/degree_difficulty.jpg">*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+//<img class="ui tiny right spaced image" src="../images/degree_difficulty.jpg">*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
 
 I take ICS314 for Software Engineering at UH Manoa in Spring, 2021. In this semester, I choose the course for two reasons. One is I need the upper division WI for graduation, and the other is I still don't want to give up my Computer Science skills.I think Javascript have many similarities with Java, which I have learned in ICS 111 and ICS 211. The difference is Java use System.out.print, but Javascript use console.log. This is the only thing I recognize so far, but I assume the differences will increase in the rest of the semester. In addition, Javascript is more easy to use because I don't need to install anything additionally, which always comforts me for no extra work. However, the bug is hard to find due to the relatively small outcome displayment. I still cannot find a way to expand the console(beta) area.
 
