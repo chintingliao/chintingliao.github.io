@@ -14,7 +14,7 @@ labels:
 summary: A project I did in BIOL 375L.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/lab.jpg">
 
 Environmental Forensics is the application of detecting and identifying unknown samples from the environment by using molecular and bioinformatic approaches. The unknown sample was collected from a botanical garden, which has a lot of native Hawaiian flora, by a local community member. I performed DNA extraction, PCR, Agarose gel electrophoresis, and Sequencing in the project. Eventually, I figured out that the sample was most likely to be a jumping spider (Hasarius adansoni). I learned how to make master mix for PCR and how to identify samples from the environment using online resource like BLAST (Basic Local Alignment Search Tool) in the ncbi website.
 
