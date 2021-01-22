@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/virology.jpg
 title: SARS-CoV-1
 permalink: projects/SARS-CoV-1
 # All dates must be YYYY-MM-DD format!
