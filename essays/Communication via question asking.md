@@ -21,6 +21,6 @@ to showing the attitude that we really want to solve and prove that we did try o
 
 ## Smart and Stupid
 
-
+In the essay, posting homework questions is one of things we should avoid. It is the ["stupid" question](https://stackoverflow.com/questions/23170022/summing-the-number-to-the-specified-value) that I found in the stackoverflow website. The question basically copy/paste the assignment or interview questions and ask for help. The comments showed that people don't seems to willing to help. One of them even ask "where is the question?"
 
 
