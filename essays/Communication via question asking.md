@@ -11,7 +11,7 @@ labels:
 
 ## How to ask
 
-Communication is always a critical issue for me since I feel uncomfortable about talking to strangers. Therefore, I usually didn't ask questions because I didn't want people to ask me questions. However, asking questions via typing messages is one way that I could feel stressless due to I can modify the questions before sending or passing. Fortunately, I read an essay written by Eric Raymond called How to ask questions the smart way recently, and I felt this essay is very helpful for me to pay more attention on question asking. I believe that people sometimes ask inappropriate questions which could lead to bad consequences happen, such as time wasting and no progress. Therefore, learning how to ask "smart" questions is the way to acquire effectiveness.
+Communication is always a critical issue for me since I feel uncomfortable about talking to strangers. Therefore, I usually didn't ask questions because I didn't want people to ask me questions. However, asking questions via typing messages is one way that I could feel stressless due to I can modify the questions before sending or passing. Fortunately, I read an essay written by Eric Raymond called [How to ask questions the smart way](http://www.catb.org/esr/faqs/smart-questions.html) recently, and I felt this essay is very helpful for me to pay more attention on question asking. I believe that people sometimes ask inappropriate questions which could lead to bad consequences happen, such as time wasting and no progress. Therefore, learning how to ask "smart" questions is the way to acquire effectiveness.
 
 ## Interesting tips
 
