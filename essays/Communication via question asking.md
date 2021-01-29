@@ -7,6 +7,7 @@ date: 2021-01-28
 labels:
   - How to ask
   - Interesting tips
+  - Smart and Stupid
 ---
 
 ## How to ask
@@ -15,7 +16,11 @@ Communication is always a critical issue for me since I feel uncomfortable about
 
 ## Interesting tips
 
-There are some interesting tips I found in the essay, including using meaningful subject headers and making it easy to reply. The reason of I feel interesting is not because they providing or teaching new ideas to me, but because I have already recognized these tips and tried to implement them; however, I still made mistakes while asking questions. The author organized the common mistakes that are easily overlooked by people, so I feel greatful of reviewing them clearly and carefully.
+There are some interesting tips I found in the essay, including using meaningful subject headers and making it easy to reply. The reason of I feel interesting is not because they providing or teaching new ideas to me, but because I have already recognized these tips and tried to implement them; however, I still made mistakes while asking questions. The author organized the common mistakes that are easily overlooked by people, so I feel greatful of reviewing them clearly and carefully. Besides, the essay also mentioned several actions that we need to do even before we start to asking. For instances, trying to find answer by searching the web and reading the manual. These actions could eventually prevent us from asking, but we still can solve our questions by ourselves. Besides, saving the time of everyone who could potentially answer our "stupid" questions. The last thing I want to mention is attitude. The essay mentioned that descrbing what you try in order to solve the problems which is linked
+to showing the attitude that we really want to solve and prove that we did try our best. I believe the actions could encourage other more willing to help.
+
+## Smart and Stupid
+
 
 
 
