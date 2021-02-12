@@ -20,7 +20,5 @@ As I mentioned above, I feel standards usually are associated with certain degre
 
 ## Computer Science 
 
-In the essay, posting homework questions is one of things we should avoid. It is the ["stupid" question](https://stackoverflow.com/questions/23170022/summing-the-number-to-the-specified-value) that I found in the stackoverflow website. The question basically copy/paste the assignment or interview questions and ask for help. The comments showed that people don't seems to willing to help. One of them even asked "where is the question?".
-There is the other question which I consider a ["smart question"](https://stackoverflow.com/questions/237104/how-do-i-check-if-an-array-includes-a-value-in-javascript) that I found in the stackoverflow website. This question is clear enough, and it showed the attitude of the questioner. Because the questioner provided the code that s/he came out to be his/her only way to solve the problem, the other people could provide different way to achieve the same outcome.
-
+In ICS 314, "[I]f you can only implement one software engineering technique to improve quality, it should be coding standards."
 
