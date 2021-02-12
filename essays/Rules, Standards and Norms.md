@@ -20,5 +20,5 @@ As I mentioned above, I feel standards usually are associated with certain degre
 
 ## Computer Science 
 
-In ICS 314, "[I]f you can only implement one software engineering technique to improve quality, it should be coding standards."
+"[I]f you can only implement one software engineering technique to improve quality, it should be coding standards." I copied with sentence from my ICS 314 course because the idea of standards could also apply to the computer science. By following the coding standards, teammates could take less time on understand what you did in the program/project and more easy to cooperate with you. The efficency might be one of the important things in software development process. My experience of integrated development environments was IntelliJ, and ESLint was used in my ICS 314 for implementing coding standards. It was not painful for me since the errors were easy to fix, but still curious about how the coding standards were made and decided. 
 
