@@ -5,7 +5,7 @@ title: Rules, Standards and Norms
 # All dates must be YYYY-MM-DD format!
 date: 2021-02-11
 labels:
-  - General idea of obey
+  - Obey and Comply with
   - Pros and Cons
   - Computer Science persepctive
 ---
