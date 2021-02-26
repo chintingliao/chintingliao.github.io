@@ -16,7 +16,7 @@ When I hear about User interface, I would think about a translator or a adaptor 
 
 ## Experience with Semantic UI
 
-In the Spring of 2021, I learned how to use Semantic UI to create a website. It was helpful because I could use the components which were provided, rather than just creating one from myself. The buttons and the icons are the simple examples and they are easy to implement as well. One thing that bothered me is there was no explanation and warning when conflicts occured. Sometimes, I added some classes to the html file and made some changes to the css file, and ended with no change. It was frustrated when I had no idea to do the trial-and-error. 
+In the Spring of 2021, I learned how to use Semantic UI to create a website. It was helpful because I could use the components which were provided, rather than just creating one from myself. The buttons and the icons are the simple examples and they are easy to implement as well. One thing that bothered me is there was no explanation and warning when conflicts occured. Sometimes, I added some classes to the html file and made some changes to the css file, and ended with no change. It was frustrated when I had no idea to do the trial-and-error. I remembered that I set the color to white in my css file and the font color kept remaining black in my UI Frameworks WOD, and I failed the WOD eventually. While the website are becoming more complicated, the modifications are becoming harder due to potential conflicts between components. I do appreciate that a lot of building blocks that are provided for usage when we are creating the website. However, mastering how to manipulate them is essential to improve efficiency, otherwise, I guess more time could be consumed.
 
 ## Try to connect with my major
 
