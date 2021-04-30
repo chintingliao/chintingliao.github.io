@@ -7,7 +7,7 @@ date: 2021-04-29
 labels:
   - Design Patterns
   - Using without able to describe
-  - Try to connect with my major
+  - Learn before use
 ---
 
 ## Design Patterns
@@ -16,7 +16,8 @@ When I first heard about Design Patterns, I thought about that should be somethi
 
 ## Using without able to describe
 
-First thing comes to my mind about using without able to describe is the mother tongue. Personally, I am a native Mandarin speaker and I don't know how to teach Mandarin at the same time. I am not sure whether it happens to all the languages or not, but I do believe I use Mandarin before I called it Mandarin, which somehow has the same idea of we are using design patterns without calling them design patterns. There are some  
+First thing comes to my mind about using without able to describe is the mother tongue. Personally, I am a native Mandarin speaker and I don't know how to teach Mandarin at the same time. I am not sure whether it happens to all the languages or not, but I do believe I use Mandarin before I called it Mandarin, which somehow has the same idea of we are using design patterns without calling them design patterns. There are design pattern examples like factory, singleton, observer, etc; there are grammer examples in Mandarin as well. Even though I don't know some grammers in Mandarin, I still can use or speak Mandarin in a in not very effienct way. I will say the same thing happens to design patterns. However, if I need to teach design patterns, understanding and able to describe become necessary. Besides, it could become harder if we learn what is design patterns before we actually using them.
 
-## Try to connect with my major
+## Learn before use
 
+I want to use English as the example to support that learning things before use make things harder. 
