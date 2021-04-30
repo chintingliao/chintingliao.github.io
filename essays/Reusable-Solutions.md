@@ -20,4 +20,4 @@ First thing comes to my mind about using without able to describe is the mother 
 
 ## Learn before use
 
-I want to use English as the example to support that learning things before use make things harder. 
+I want to use English as the example to support that learning things before use make things harder. I learn English as the second language and the strategy is very different from how I learn Mandarin. For English learning, I learned grammers and the meaning of vocabularies first, but it is still hard for me to use and speak English. One of the reason I think is I am afraid of making mistakes since I could recognize that the grammer of what I am going to say is wrong before I actually speak. Because I learned the grammer, so that stoped me from practicing. The consequence was I could not get sufficient experience. The other reason I think could be 
