@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Skills Acquired in Class
+title: Learned from class
 # All dates must be YYYY-MM-DD format!
 date: 2021-05-13
 labels:
