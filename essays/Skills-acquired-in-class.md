@@ -6,7 +6,7 @@ title: Skills Acquired in Class
 date: 2021-05-13
 labels:
   - What I learned
-  - Intergrated Development Environment
+  - Development Environment
   - Ethics
 ---
 
@@ -20,4 +20,4 @@ The Intergrated Development Environment, which is IntelliJ Idea, plays a signifi
 
 ## Ethics
 
-Ethics
+Ethics is always an interesting issue to consider and it is present in many field. In Biology, ethics such as consents for experimets of human or human cloning is relatively obvious to recognize than the ethics in Software Engineering. However, it is necessary to think of others when the actions potential could have impacts. In the field of Computer Science, a very big part is associated with non-living machines. It might be a reason of forgeting other users or developers who are involved. With the advancement of science and technology, human beings start to encounter issues that have not happen before. Although ethics sometimes can be considered as obstacles of progressions, it is still important to protect ourselves from making irreversible outcomes. In the lecture, we discussed about an ethical issue of testing the Linux without permission. I do believe those tests could improve the system, but no consent is kind of a taboo in many field. The review board did not perform the function as it should, which was unfortunate. Reminding ourselves of getting consents before actions could reduced a lot of problems and wishing everyone can do their best to implement it!
