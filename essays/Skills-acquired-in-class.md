@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Skills acquired in class
+title: Skills Acquired in Class
 # All dates must be YYYY-MM-DD format!
 date: 2021-05-13
 labels:
@@ -12,7 +12,7 @@ labels:
 
 ## What I learned
 
-When I first heard about Design Patterns, I thought about that should be something very professional and using by designers to develop or build masterpieces. It did not sound like students, like me, can easily handle. However, I somehow got the idea after my ICS 314 instructor, Philip Johnson, explained how we had already using them in our class. It is still difficult for me to explain what is design patterns in detail, but I think it is interesting when he mentioned that we were actually using design patterns without calling them design patterns before. For me, design patterns are like categorizing our behaviors or experience and discribing them in a moderate way. Therefore, other people or even ourselves could benefit from what was solved or encountered before. In short, I will say it is all about effectiveness. I do believe understanding design patterns deeply could let people have better performance, but there are thresholds to be crossed when it comes to teaching.
+2021 is a year of continuous epidemics and I spent my lots of sleeping time for taking classes in the past five months since my time zone is different. It is my second fully-online semester and I believe I somehow learned how to deal with online class so far. In my perspective, online classes have less pressure than in-person clasess because I do not need to go to classroom and see people, which makes me need to force myself to keep up with the courses. In the Fall 2020, I did not perform well since I could not have a good time for doing assignments. However, I almost finish all of them in Spring 2021, which is a good improvement. One of the classes that has numerous tasks is ICS 314, but I appreciate those assignments since they really help me learn a lot.
 
 ## Intergrated Development Environment
 
