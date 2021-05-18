@@ -29,8 +29,7 @@
     {
       "name": "software engineering",
       "keywords": [
-        "blank",
-        "blank"
+        "web application design"
       ]
     },
     {
@@ -76,7 +75,27 @@
       "startDate": "2019-08-23",
       "endDate": "Present",
       "gpa": "3.21",
-      "courses": [ "CHEM 272 (Organic Chemistry I): C", "CHEM 272L (Organic Chemistry Lab I): B", "CHEM 273 (Organic Chemistry II): A-", "BIOL 171 (Introduction to Biology I): B", "BIOL 171L (Introduction to Biology I Lab): B", "BIOL 172 (Introduction to Biology II): A", "BIOL 172L (Introduction to Biology II Lab): A", "BIOL 275 (Cell and Molecular Biology): A", "BIOL 275L (Cell and Molecular Biology Lab): C", "BIOL 375 (Genetics): B", "BIOL 375L (Genetics Laboratory): B", "BIOL 407 (Molecular Biology I): B", "BIOL 408 (Molecular Cell Biology II): A-", "MICR 314 (Research Ethics): A", "MCB 461 (Immunology): A", "MCB 461L (Immunology Lab): B", "BIOL 472 (Biology of Cancer): B+", "ZOOL 442 (Introduction to Neuroscience): B+", "MICR 490 (Virology): B", "MICR 351 (Biology of Microorganisms): B", "MICR 351L (Biology of Microorganisms Lab): A", 
+      "courses": [ "CHEM 272 (Organic Chemistry I): C",
+                  "CHEM 272L (Organic Chemistry Lab I): B",
+                  "CHEM 273 (Organic Chemistry II): A-",
+                  "BIOL 171 (Introduction to Biology I): B",
+                  "BIOL 171L (Introduction to Biology I Lab): B",
+                  "BIOL 172 (Introduction to Biology II): A",
+                  "BIOL 172L (Introduction to Biology II Lab): A",
+                  "BIOL 275 (Cell and Molecular Biology): A",
+                  "BIOL 275L (Cell and Molecular Biology Lab): C",
+                  "BIOL 375 (Genetics): B",
+                  "BIOL 375L (Genetics Laboratory): B",
+                  "BIOL 407 (Molecular Biology I): B",
+                  "BIOL 408 (Molecular Cell Biology II): A-",
+                  "MICR 314 (Research Ethics): A",
+                  "MCB 461 (Immunology): A",
+                  "MCB 461L (Immunology Lab): B",
+                  "BIOL 472 (Biology of Cancer): B+",
+                  "ZOOL 442 (Introduction to Neuroscience): B+",
+                  "MICR 490 (Virology): B",
+                  "MICR 351 (Biology of Microorganisms): B",
+                  "MICR 351L (Biology of Microorganisms Lab): A", 
       ]
     }
   ],
