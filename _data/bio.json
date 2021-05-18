@@ -6,13 +6,11 @@
     "email": "chinting@hawaii.edu",
     "phone": "blank",
     "website": "https://chintingliao.github.io",
-    "summary": "I am studying for a B.S. in Molecular Cell Biology in the Department of Microbiology at the University of Hawaii. I expect to graduate in Fall, 2021.",
+    "summary": "I am studying for a B.S. in Molecular Cell Biology in the Department of Microbiology at the University of Hawaii. I expect to graduate in Spring, 2021.",
     "location": {
       "address": "blank",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "23158",
+      "city": "New Taipei City"
     },
     "profiles": [
       {
@@ -73,12 +71,12 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Molecular Cell Biology (expected Spring, 2022)",
+      "area": "Molecular Cell Biology (expected Spring, 2021)",
       "studyType": "B.S.",
       "startDate": "2019-08-23",
       "endDate": "Present",
-      "gpa": "",
-      "courses": [
+      "gpa": "3.21",
+      "courses": [ "CHEM 272 (Organic Chemistry I), C", 
       ]
     }
   ],
